@@ -1,0 +1,22 @@
+https://www.kaggle.com/learn
+
+Titanic
+https://www.kaggle.com/code/alexisbcook/titanic-tutorial/notebook
+
+Intro to Programming
+https://www.kaggle.com/learn/intro-to-programming
+
+Python
+https://www.kaggle.com/learn/python
+
+Pandas
+https://www.kaggle.com/learn/pandas
+
+Data Cleaning
+https://www.kaggle.com/learn/data-cleaning
+
+Data Visualization
+https://www.kaggle.com/learn/data-visualization
+
+Geospatial Analysis
+https://www.kaggle.com/learn/geospatial-analysis
